@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Veryable Coding Challenge</string>
-    <string name="welcome_to_veryable_coding_challenge">Welcome To Veryable Coding Challenge</string>
+    <string name="error_message">Something went wrong. Please try again later</string>
+
+    <string name="details_title">Details</string>
+    <string name="payouts_title">Accounts</string>
+
+    <string name="done_button">DONE</string>
+
+    <string name="account_type_card">Card: Instant</string>
+    <string name="account_type_bank">Bank Account: ACH - Same Day</string>
+    <string name="account_type_error">ERROR: UNKNOWN TYPE</string>
+
 </resources>
